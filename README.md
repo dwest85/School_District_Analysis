@@ -6,17 +6,17 @@
 # Results
 * The district summary was affected by the dishonest scores and brought Thomas High School into the bottom 5 schools in the per_school_summary. Based on budgets, although, the charter schools out-performed the district schools, larger budgets were linked to several of the district school systems. 
 
-![districtvscharter]()
+![districtvscharter](https://github.com/dwest85/School_District_Analysis/blob/main/markdownpics/districtvscharter.JPG)
 
 * The school summary shows a direct correlation with the size of the school vs the passing scores. Typically, schools with lower school counts outperformed the schools with larger school counts.
 
-![studentpassingscores]()
+![studentpassingscores](https://github.com/dwest85/School_District_Analysis/blob/main/markdownpics/studentpassingscores.JPG)
 
 * As mentioned in the district summary, the overall scores were affected once the dishonest 9th scores were cleaned from the data. This dropped the school's performance into the bottom 5 schools out of both districts combined.
 
-![bottomfiveschools]()
+![bottomfiveschools](https://github.com/dwest85/School_District_Analysis/blob/main/markdownpics/bottomfiveschools.JPG)
 
 # Summary
 * The 9th grade Thomas High School data being cleaned affected the following parameters in the data: the overall student count was adjusted, the school performance ranking order was also affected, as well as both budget parameters (total budget per school and total budget per student.)
 
-![newstudentcount]()
+![newstudentcount](https://github.com/dwest85/School_District_Analysis/blob/main/markdownpics/newstudentcount.JPG)
